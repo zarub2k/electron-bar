@@ -1,0 +1,15 @@
+{
+  "name": "electron-bar",
+  "version": "1.0.0",
+  "description": "electron demo application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "electron ."
+  },
+  "author": "Tham",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
